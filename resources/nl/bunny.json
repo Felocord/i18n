@@ -1,4 +1,5 @@
 {
+    "ABOUT": "Over",
     "ACTIONS": "Acties",
     "ARE_YOU_SURE_TO_CLEAR_DATA": "Weet je zeker dat je de gegevens van {name} wilt wissen?",
     "ARE_YOU_SURE_TO_DELETE_PLUGIN": "Weet je zeker dat je {name} wilt verwijderen? Dit zal alle gegevens van de plug-in wissen.",
@@ -11,5 +12,8 @@
     "CANCEL": "Annuleren",
     "CLEAR": "Verwijderen",
     "CLEAR_DATA": "Wis gegevens",
-    "CLEAR_DATA_FAILED": "Gegevens voor {name} wissen is mislukt!"
+    "CLEAR_DATA_FAILED": "Gegevens voor {name} wissen is mislukt!",
+    "CLEAR_DATA_SUCCESSFUL": "Gegevens voor {name} gewist.",
+    "CODENAME": "Codenaam",
+    "COMMAND_DEBUG_DESC": "Verstuur Bunny foutopsporingsinformatie."
 }
