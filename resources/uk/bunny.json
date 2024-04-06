@@ -1,1 +1,23 @@
-{}
+{
+    "ACTIONS": "Дії",
+    "ARE_YOU_SURE_TO_CLEAR_DATA": "Чи ви дійсно бажаєте очистити дані {name}?",
+    "ARE_YOU_SURE_TO_DELETE_PLUGIN": "Чи ви дійсно бажаєте видалити {name}? Це очистить всі дані плагіну.",
+    "ARE_YOU_SURE_TO_DELETE_THEME": "Чи ви впевнені, що бажаєте видалити {name}?",
+    "BRAND": "Виробник",
+    "BUNNY": "Bunny",
+    "BUNNY_URL": "Bunny URL",
+    "BYTECODE": "Байт-код",
+    "CANCEL": "Скасувати",
+    "CLEAR": "Очистити",
+    "CLEAR_DATA": "Очистити дані",
+    "CLEAR_DATA_FAILED": "Не вдалося очистити дані для {name}!",
+    "CLEAR_DATA_SUCCESSFUL": "Очищено дані для {name}.",
+    "CODENAME": "Кодове ім'я",
+    "COMPONENT": "Компонент",
+    "CONFIRMATION_LINK_IS_A_TYPE": "Це є посилання на **{urlType, select, plugin {Плагін} theme {Тему} other {Інше}}**, встановити його?",
+    "COPY_URL": "Скопіювати адресу",
+    "DELETE": "Видалити",
+    "DISCORD_SERVER": "Сервер Discord",
+    "ENABLE_UPDATES": "Увімкнути оновлення",
+    "GITHUB": "GitHub"
+}
