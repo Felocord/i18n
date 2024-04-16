@@ -1,7 +1,5 @@
 {
     "ABOUT": "เกี่ยวกับ",
-    "PLUGIN_REFETCH_SUCCESSFUL": "รีเฟรชปลั๊กอินสำเร็จ!",
-    "PLUGIN_REFETCH_FAILED": "ไม่รีเฟรชปลั๊กอินสำเร็จ!",
     "ACTIONS": "การกระทำ",
     "ARE_YOU_SURE_TO_CLEAR_DATA": "คุณแน่ใจไหมที่จะเคลียร์ที่จะเคลียร์ของ{name}?",
     "ARE_YOU_SURE_TO_DELETE_PLUGIN": "คุณแน่ใจไหมที่จะเคลียร์ที่จะลบ{name}? นี่จะเคลียร์ข้อมูลของปลั้กอินทั้งหมด",
@@ -24,5 +22,7 @@
     "COMMAND_EVAL_OPT_CODE": "โค้ดที่จะประเมิน",
     "COMMAND_PLUGINS_DESC": "ส่งรายการของปลั้กอินที่ติดตั้งไว้แล้ว",
     "COMMAND_PLUGINS_OPT_EPHEMERALLY": "ส่งรายการของปลั้กอินชั่วคราว",
-    "COMPONENT": "ส่วนประกอบ"
+    "COMPONENT": "ส่วนประกอบ",
+    "PLUGIN_REFETCH_FAILED": "ไม่รีเฟรชปลั๊กอินสำเร็จ!",
+    "PLUGIN_REFETCH_SUCCESSFUL": "รีเฟรชปลั๊กอินสำเร็จ!"
 }
