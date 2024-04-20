@@ -80,6 +80,7 @@
     "RETRY_RENDER": "Réessayer le Render",
     "SAFE_MODE": "Mode sans échec",
     "SAFE_MODE_NOTICE_PLUGINS": "Vous êtes en mode sans échec, les plugins ne peuvent donc pas être chargés. Désactivez les plugins qui se comportent mal, puis revenez en mode normal depuis la page des paramètres généraux.",
+    "SAFE_MODE_NOTICE_THEMES": "Vous êtes en mode sans échec, ce qui signifie que les thèmes ont été temporairement désactivés. {enabled, select, true {Si un thème semble causer le problème, vous pouvez appuyer ci-dessous pour le désactiver de manière permanente.} other {}}",
     "SEARCH": "Rechercher",
     "SETTINGS_ACTIVATE_DISCORD_EXPERIMENTS": "Activez les Expérimentations Discord",
     "SETTINGS_ACTIVATE_DISCORD_EXPERIMENTS_DESC": "Attention : L'utilisation de cette fonction peut entraîner la résiliation du compte. Nous ne sommes pas responsables de ce que vous faites avec cette fonctionnalité.",
@@ -90,10 +91,11 @@
     "THEMES": "Thèmes",
     "THEMES_RELOAD_FOR_CHANGES": "Recharger l'application pour appliquer pleinement les modifications !",
     "TOASTS_INSTALLED_PLUGIN": "Plugin installé",
+    "TOASTS_PLUGIN_UPDATE": "Mises à jour pour {name} {update, select, true {activées} other {désactivées}}.",
     "UH_OH": "Oh non.",
     "UNINSTALL": "Désinstaller",
     "UNINSTALL_TITLE": "Désinstaller {title}",
-    "URL_PLACEHOLDER": "https://exemple.com",
+    "URL_PLACEHOLDER": "https://example.com",
     "VERSION": "Version",
     "VERSIONS": "Versions"
 }
