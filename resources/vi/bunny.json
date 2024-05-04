@@ -36,6 +36,8 @@
     "DISABLE_THEME": "Tắt chủ đề",
     "DISABLE_UPDATES": "Tắt cập nhật",
     "DISCORD_SERVER": "Máy chủ Discord",
+    "ENABLE_EVAL_COMMAND": "Bật lệnh /eval",
+    "ENABLE_EVAL_COMMAND_DESC": "Đánh giá JavaScript trực tiếp từ lệnh. Hãy thận trọng khi sử dụng lệnh này vì nó có thể gây ra rủi ro bảo mật. Hãy chắc chắn để biết những gì bạn đang làm.",
     "ENABLE_UPDATES": "Bật cập nhật",
     "ERROR_BOUNDARY_TOOLS_LABEL": "Công cụ ErrorBoundary",
     "GENERAL": "Tổng quan",

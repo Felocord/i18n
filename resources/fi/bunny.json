@@ -36,6 +36,8 @@
     "DISABLE_THEME": "Poista Teema Käytöstä",
     "DISABLE_UPDATES": "Poista päivitykset käytöstä",
     "DISCORD_SERVER": "Discord Palvelin",
+    "ENABLE_EVAL_COMMAND": "Ota /eval komento käyttöön",
+    "ENABLE_EVAL_COMMAND_DESC": "Arvioi JavaScriptiä suoraan komennosta. Ole varovainen käyttäessäsi tätä komento, sillä se saatta olla turvallisuusriski. Varmistathan, että tiedät mitä olet tekemässä.",
     "ENABLE_UPDATES": "Ota päivitykset käyttöön",
     "ERROR_BOUNDARY_TOOLS_LABEL": "ErrorBoundary Työkalut",
     "GENERAL": "Yleiset",

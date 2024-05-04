@@ -36,6 +36,8 @@
     "DISABLE_THEME": "Išjungti temą",
     "DISABLE_UPDATES": "Išjungti atnaujinimus",
     "DISCORD_SERVER": "Discord serveris",
+    "ENABLE_EVAL_COMMAND": "Įjungti /eval komandą",
+    "ENABLE_EVAL_COMMAND_DESC": "Vertinti JavaScript tiesiogiai iš komandos. Naudodami šią komandą būkite atsargūs, nes ji gali kelti pavojų saugumui. Įsitikinkite, kad žinote, ką darote.",
     "ENABLE_UPDATES": "Įjungti atnaujinimus",
     "ERROR_BOUNDARY_TOOLS_LABEL": "ErrorBoundary įrankiai",
     "GENERAL": "Bendras",

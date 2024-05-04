@@ -36,6 +36,8 @@
     "DISABLE_THEME": "테마 사용 중지",
     "DISABLE_UPDATES": "업데이트 끄기",
     "DISCORD_SERVER": "Discord 서버",
+    "ENABLE_EVAL_COMMAND": "/eval 명령어 사용",
+    "ENABLE_EVAL_COMMAND_DESC": "명령어에서 JavaScript를 바로 실행해요. 이 명령어를 사용할 때 보안 위협을 야기할 수도 있으니 주의하세요. 무엇을 하고 있는지 인지하세요.",
     "ENABLE_UPDATES": "업데이트 켜기",
     "ERROR_BOUNDARY_TOOLS_LABEL": "ErrorBoundary 도구",
     "GENERAL": "일반",
