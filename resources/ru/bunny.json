@@ -36,6 +36,8 @@
     "DISABLE_THEME": "Отключить тему",
     "DISABLE_UPDATES": "Отключить обновления",
     "DISCORD_SERVER": "Сервер Discord",
+    "ENABLE_EVAL_COMMAND": "Включить команду /eval",
+    "ENABLE_EVAL_COMMAND_DESC": "Выполнить JavaScript напрямую из команды. Будьте осторожны при использовании этой команды, так как это может привести к риску безопасности. Убедитесь, что вы знаете что делаете.",
     "ENABLE_UPDATES": "Включить обновления",
     "ERROR_BOUNDARY_TOOLS_LABEL": "Инструменты ErrorBoundary",
     "GENERAL": "Общее",
