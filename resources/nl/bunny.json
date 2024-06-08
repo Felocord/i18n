@@ -15,5 +15,21 @@
     "CLEAR_DATA_FAILED": "Gegevens voor {name} wissen is mislukt!",
     "CLEAR_DATA_SUCCESSFUL": "Gegevens voor {name} gewist.",
     "CODENAME": "Codenaam",
-    "COMMAND_DEBUG_DESC": "Verstuur Bunny foutopsporingsinformatie."
+    "COMMAND_DEBUG_DESC": "Verstuur Bunny foutopsporingsinformatie.",
+    "COPIED_TO_CLIPBOARD": "Naar klembord gekopieerd",
+    "COPY_URL": "URL kopiëren",
+    "DISABLE_UPDATES": "Updates uitschakelen",
+    "DISCORD_SERVER": "Discord server",
+    "ENABLE_UPDATES": "Update inschakelen",
+    "FONTS": "Lettertypes",
+    "GENERAL": "Algemeen",
+    "INFO": "Informatie",
+    "INSTALL": "Installeren",
+    "INSTALL_ADDON": "Installeer een add-on",
+    "INSTALL_FONT": "Installeer een lettertype",
+    "INSTALL_PLUGIN": "Installeer plugin",
+    "INSTALL_THEME": "Installeer thema",
+    "MODAL_THEME_REFETCHED": "Thema opnieuw opgehaald",
+    "REMOVE": "Verwijder",
+    "SAFE_MODE": "Veilige modus"
 }
