@@ -1,1 +1,7 @@
-{}
+{
+    "ABOUT": "Über",
+    "ACTIONS": "Aktions",
+    "ARE_YOU_SURE_TO_CLEAR_DATA": "Bist du dir sicher alle deine Darej zu llöschen {name}?",
+    "ARE_YOU_SURE_TO_DELETE_PLUGIN": "Bist du dir sicher alle deine Darej zu llöschen {name}?",
+    "ASSET_BROWSER": "Asset-Browser"
+}
