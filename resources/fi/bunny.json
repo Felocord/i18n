@@ -26,6 +26,7 @@
     "CONFIRMATION_LINK_IS_A_TYPE": "Tämä linkki johtaa **{urlType, select, plugin {Liitännäiseen} theme {Teemaan} other {Lisäosaan}}**, haluatko asentaa sen?",
     "CONNECT_TO_DEBUG_WEBSOCKET": "Yhdistä virheenkorjauswebsockettiin",
     "CONNECT_TO_REACT_DEVTOOLS": "Yhdistä React DevTools:iin",
+    "CONTINUE": "Continue",
     "COPIED_TO_CLIPBOARD": "Kopioitu leikepöydälle",
     "COPY_URL": "Kopioi osoite",
     "DEBUG": "Virheenkorjaus",
