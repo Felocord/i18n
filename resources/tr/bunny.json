@@ -26,6 +26,7 @@
     "CONFIRMATION_LINK_IS_A_TYPE": "Bu bağlantı bir **{urlType, select, plugin {eklentidir} theme {temadır} other {eklentidir}}**, yüklemek ister misiniz?",
     "CONNECT_TO_DEBUG_WEBSOCKET": "Hata ayıklama soketine bağlan",
     "CONNECT_TO_REACT_DEVTOOLS": "React DevTools'a bağlan",
+    "CONTINUE": "Continue",
     "COPIED_TO_CLIPBOARD": "Eklenti URLsi kopyalandı",
     "COPY_URL": "URLyi kopyala",
     "DEBUG": "Hata ayıklama",
