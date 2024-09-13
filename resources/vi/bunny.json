@@ -26,6 +26,7 @@
     "CONFIRMATION_LINK_IS_A_TYPE": "Liên kết này là một **{urlType, select, plugin {Plugin} theme {Chủ đề} other {Tiện ích bổ sung}}**, bạn có muốn cài đặt nó không?",
     "CONNECT_TO_DEBUG_WEBSOCKET": "Kết nối để gỡ lỗi websocket",
     "CONNECT_TO_REACT_DEVTOOLS": "Kết nối với công cụ phát triển React",
+    "CONTINUE": "Tiếp tục",
     "COPIED_TO_CLIPBOARD": "Đã sao chép vào bảng nhớ tạm",
     "COPY_URL": "Sao chép liên kết",
     "DEBUG": "Gỡ lỗi",
