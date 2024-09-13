@@ -26,6 +26,7 @@
     "CONFIRMATION_LINK_IS_A_TYPE": "Ši nuoroda yra **{urlType, select, plugin {įskiepis} theme {tema} other {priedas}}**. Ar norėtumėte ją įdiegti?",
     "CONNECT_TO_DEBUG_WEBSOCKET": "Prisijunkite prie derinimo websocket",
     "CONNECT_TO_REACT_DEVTOOLS": "Prisijunkite prie React DevTools",
+    "CONTINUE": "Continue",
     "COPIED_TO_CLIPBOARD": "Nukopijuota į iškarpinę",
     "COPY_URL": "Kopijuoti URL",
     "DEBUG": "Derinimas",
