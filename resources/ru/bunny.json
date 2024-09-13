@@ -26,6 +26,7 @@
     "CONFIRMATION_LINK_IS_A_TYPE": "Эта ссылка на **{urlType, select, plugin {Плагин} theme {Тему} other {Дополнение}}**, хотите установить?",
     "CONNECT_TO_DEBUG_WEBSOCKET": "Подключиться к вебсокету отладки",
     "CONNECT_TO_REACT_DEVTOOLS": "Подключиться к React DevTools",
+    "CONTINUE": "Continue",
     "COPIED_TO_CLIPBOARD": "URL плагина скопирован в буфер обмена",
     "COPY_URL": "Скопировать URL",
     "DEBUG": "Отладка",
