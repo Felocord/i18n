@@ -26,6 +26,7 @@
     "CONFIRMATION_LINK_IS_A_TYPE": "Acest link este un/o **{urlType, select, plugin {Plugin} theme {Theme} other {Add-on}}**, vrei să îl instalezi?",
     "CONNECT_TO_DEBUG_WEBSOCKET": "Conectează-te la depanarea websocket",
     "CONNECT_TO_REACT_DEVTOOLS": "Conectează-te la React DevTools",
+    "CONTINUE": "Continue",
     "COPIED_TO_CLIPBOARD": "Copiat în clipboard",
     "COPY_URL": "Copiază URL-ul",
     "DEBUG": "Depanare",
