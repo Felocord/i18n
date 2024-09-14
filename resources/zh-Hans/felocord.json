@@ -1,4 +1,4 @@
-﻿{
+{
     "ABOUT": "关于",
     "ACTIONS": "Actions",
     "ARE_YOU_SURE_TO_CLEAR_DATA": "确定要清除 {name} 的数据吗？",
@@ -6,7 +6,7 @@
     "ARE_YOU_SURE_TO_DELETE_THEME": "确定要删除 {name} 吗？",
     "ASSET_BROWSER": "浏览资产",
     "BRAND": "商标",
-    "FELOCORD": "Felocord",
+    "FELOCORD": "Bunny",
     "FELOCORD_URL": "Felocord 链接",
     "BYTECODE": "字节码",
     "CANCEL": "取消",
@@ -59,7 +59,7 @@
     "LABEL_EXTRACT_FONTS_FROM_THEME": "Extract font from theme",
     "LINKS": "Links",
     "LOAD_FROM_CUSTOM_URL": "Load from custom URL",
-    "LOAD_FROM_CUSTOM_URL_DEC": "Load Felocord from a custom endpoint.",
+    "LOAD_FROM_CUSTOM_URL_DEC": "Load Bunny from a custom endpoint.",
     "LOAD_REACT_DEVTOOLS": "Load React DevTools",
     "LOADER": "Loader",
     "MACHINE_ID": "Machine ID",
