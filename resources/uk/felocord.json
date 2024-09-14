@@ -1,4 +1,4 @@
-{
+﻿{
     "ABOUT": "Про додаток",
     "ACTIONS": "Дії",
     "ARE_YOU_SURE_TO_CLEAR_DATA": "Ви дійсно бажаєте очистити дані {name}?",
@@ -6,8 +6,8 @@
     "ARE_YOU_SURE_TO_DELETE_THEME": "Ви впевнені, що бажаєте видалити {name}?",
     "ASSET_BROWSER": "Менеджер ассетів",
     "BRAND": "Виробник",
-    "BUNNY": "Bunny",
-    "BUNNY_URL": "Bunny URL",
+    "FELOCORD": "Bunny",
+    "FELOCORD_URL": "Bunny URL",
     "BYTECODE": "Байт-код",
     "CANCEL": "Скасувати",
     "CLEAR": "Очистити",

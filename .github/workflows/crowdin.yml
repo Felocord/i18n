@@ -5,7 +5,7 @@ on:
     branches:
       - 'main'
     paths:
-      - 'base/bunny.json'
+      - 'base/felocord.json'
       - '.github/workflows/crowdin.yml'
   schedule:
     - cron: "0 17 * * 6" # "At 17:00 on Saturday."

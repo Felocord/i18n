@@ -1,4 +1,4 @@
-{
+﻿{
     "ABOUT": "Bunny について",
     "ACTIONS": "アクション",
     "ARE_YOU_SURE_TO_CLEAR_DATA": "{name} のデータを消去してもよろしいですか？",
@@ -6,8 +6,8 @@
     "ARE_YOU_SURE_TO_DELETE_THEME": "{name} を削除してもよろしいですか？",
     "ASSET_BROWSER": "アセットブラウザ",
     "BRAND": "ブランド",
-    "BUNNY": "Bunny",
-    "BUNNY_URL": "Bunny URL",
+    "FELOCORD": "Bunny",
+    "FELOCORD_URL": "Bunny URL",
     "BYTECODE": "バイトコード",
     "CANCEL": "キャンセル",
     "CLEAR": "消去",

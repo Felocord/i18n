@@ -1,4 +1,4 @@
-{
+﻿{
     "ABOUT": "इसके बारे में",
     "ACTIONS": "कार्रवाई",
     "ARE_YOU_SURE_TO_CLEAR_DATA": "क्या आप वाकई {name} का डेटा साफ़ करना चाहते हैं?",
@@ -6,8 +6,8 @@
     "ARE_YOU_SURE_TO_DELETE_THEME": "क्या आप वाकई {name} को हटाना चाहते हैं?",
     "ASSET_BROWSER": "एसेट ब्राउज़र",
     "BRAND": "ब्रांड",
-    "BUNNY": "बनी",
-    "BUNNY_URL": "बनी यूआरएल",
+    "FELOCORD": "बनी",
+    "FELOCORD_URL": "बनी यूआरएल",
     "BYTECODE": "बाईटकोड",
     "CANCEL": "रद्द करें",
     "CLEAR": "स्पष्ट",

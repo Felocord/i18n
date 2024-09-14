@@ -1,4 +1,4 @@
-{
+﻿{
     "ABOUT": "О",
     "ACTIONS": "Действия",
     "ARE_YOU_SURE_TO_CLEAR_DATA": "Вы уверены, что хотите очистить данные {name}?",
@@ -6,8 +6,8 @@
     "ARE_YOU_SURE_TO_DELETE_THEME": "Вы уверены, что хотите удалить {name}?",
     "ASSET_BROWSER": "Браузер ресурсов",
     "BRAND": "Бренд",
-    "BUNNY": "Bunny",
-    "BUNNY_URL": "Ссылка на Bunny",
+    "FELOCORD": "Bunny",
+    "FELOCORD_URL": "Ссылка на Bunny",
     "BYTECODE": "Байткод",
     "CANCEL": "Отменить",
     "CLEAR": "Очистить",

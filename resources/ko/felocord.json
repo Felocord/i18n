@@ -1,4 +1,4 @@
-{
+﻿{
     "ABOUT": "정보",
     "ACTIONS": "작업",
     "ARE_YOU_SURE_TO_CLEAR_DATA": "{name}의 데이터를 삭제할까요?",
@@ -6,8 +6,8 @@
     "ARE_YOU_SURE_TO_DELETE_THEME": "{name}을(를) 삭제할까요?",
     "ASSET_BROWSER": "에셋 브라우저",
     "BRAND": "상표",
-    "BUNNY": "Bunny",
-    "BUNNY_URL": "Bunny URL",
+    "FELOCORD": "Bunny",
+    "FELOCORD_URL": "Bunny URL",
     "BYTECODE": "Bytecode",
     "CANCEL": "취소",
     "CLEAR": "초기화",

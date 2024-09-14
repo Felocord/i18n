@@ -1,4 +1,4 @@
-{
+﻿{
     "ABOUT": "Σχετικά",
     "ACTIONS": "Ενέργειες",
     "ARE_YOU_SURE_TO_CLEAR_DATA": "Είσαι σίγουρος ότι θες να καθαρίσεις τα δεδομένα του {name};",
@@ -6,8 +6,8 @@
     "ARE_YOU_SURE_TO_DELETE_THEME": "Είσαι σίγουρος ότι θες να διαγράψεις το {name};",
     "ASSET_BROWSER": "Περιηγητής Στοιχείων",
     "BRAND": "Μάρκα",
-    "BUNNY": "Bunny",
-    "BUNNY_URL": "Bunny URL",
+    "FELOCORD": "Bunny",
+    "FELOCORD_URL": "Bunny URL",
     "BYTECODE": "Bytecode",
     "CANCEL": "Ακύρωση",
     "CLEAR": "Εκκαθάριση",
