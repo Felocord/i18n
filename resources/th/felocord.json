@@ -1,4 +1,4 @@
-{
+﻿{
     "ABOUT": "เกี่ยวกับ",
     "ACTIONS": "การกระทำ",
     "ARE_YOU_SURE_TO_CLEAR_DATA": "คุณแน่ใจไหมที่จะเคลียร์ที่จะเคลียร์ของ{name}?",
@@ -59,7 +59,7 @@
     "LABEL_EXTRACT_FONTS_FROM_THEME": "Extract font from theme",
     "LINKS": "Links",
     "LOAD_FROM_CUSTOM_URL": "Load from custom URL",
-    "LOAD_FROM_CUSTOM_URL_DEC": "Load Bunny from a custom endpoint.",
+    "LOAD_FROM_CUSTOM_URL_DEC": "Load Felocord from a custom endpoint.",
     "LOAD_REACT_DEVTOOLS": "Load React DevTools",
     "LOADER": "Loader",
     "MACHINE_ID": "Machine ID",
