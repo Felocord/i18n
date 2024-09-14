@@ -1,5 +1,5 @@
 {
-    "ABOUT": "О",
+    "ABOUT": "О программе",
     "ACTIONS": "Действия",
     "ARE_YOU_SURE_TO_CLEAR_DATA": "Вы уверены, что хотите очистить данные {name}?",
     "ARE_YOU_SURE_TO_DELETE_PLUGIN": "Вы уверены, что хотите удалить {name}? Это очистит все данные плагина.",
@@ -26,6 +26,7 @@
     "CONFIRMATION_LINK_IS_A_TYPE": "Эта ссылка на **{urlType, select, plugin {Плагин} theme {Тему} other {Дополнение}}**, хотите установить?",
     "CONNECT_TO_DEBUG_WEBSOCKET": "Подключиться к вебсокету отладки",
     "CONNECT_TO_REACT_DEVTOOLS": "Подключиться к React DevTools",
+    "CONTINUE": "Продолжить",
     "COPIED_TO_CLIPBOARD": "URL плагина скопирован в буфер обмена",
     "COPY_URL": "Скопировать URL",
     "DEBUG": "Отладка",
@@ -96,7 +97,7 @@
     "SEPARATOR": ", ",
     "SETTINGS_ACTIVATE_DISCORD_EXPERIMENTS": "Активировать Эксперименты Discord",
     "SETTINGS_ACTIVATE_DISCORD_EXPERIMENTS_DESC": "Осторожно: Играясь с этой функцией может вовлечь за собой отключение учётной записи. Мы не несём ответственности за то, что вы делаете с этой функцией.",
-    "STACK_TRACE": "Stack Trace",
+    "STACK_TRACE": "Трассировка Стека",
     "SUCCESSFULLY_INSTALLED": "Успешно установлено",
     "THEME_EXTRACTOR_DESC": "Этот пакет переопределяет следующее: {fonts}",
     "THEME_REFETCH_FAILED": "Не удалось переустановить тему!",

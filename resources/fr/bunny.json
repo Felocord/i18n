@@ -26,6 +26,7 @@
     "CONFIRMATION_LINK_IS_A_TYPE": "Ce lien est un **{urlType, select, plugin {Plugin} theme {Thème} other {Add-on}}**, voulez-vous l'installer?",
     "CONNECT_TO_DEBUG_WEBSOCKET": "Connexion au websocket de débogage",
     "CONNECT_TO_REACT_DEVTOOLS": "Connexion aux DevTools React",
+    "CONTINUE": "Continuer",
     "COPIED_TO_CLIPBOARD": "Copié dans le presse-papier",
     "COPY_URL": "Copier l'URL",
     "DEBUG": "Debug",

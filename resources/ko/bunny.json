@@ -26,6 +26,7 @@
     "CONFIRMATION_LINK_IS_A_TYPE": "**{urlType, select, plugin {플러그인} theme {테마} other {애드온}}** 링크예요. 설치할까요?",
     "CONNECT_TO_DEBUG_WEBSOCKET": "디버그 웹소켓으로 연결",
     "CONNECT_TO_REACT_DEVTOOLS": "React DevTools로 연결",
+    "CONTINUE": "계속",
     "COPIED_TO_CLIPBOARD": "클립보드에 복사했어요",
     "COPY_URL": "URL 복사",
     "DEBUG": "디버그",
