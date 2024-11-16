@@ -26,6 +26,7 @@
     "CONFIRMATION_LINK_IS_A_TYPE": "Ez a link egy **{urlType, select, plugin {Bővítmény} theme {Téma} other {Kiegészítő}}**, szeretnéd telepíteni?",
     "CONNECT_TO_DEBUG_WEBSOCKET": "Csatlakozás a hibakereső websockethez",
     "CONNECT_TO_REACT_DEVTOOLS": "Csatlakozás a React DevToolshoz",
+    "CONTINUE": "Tovább",
     "COPIED_TO_CLIPBOARD": "Vágólapra másolva",
     "COPY_URL": "URL másolása",
     "DEBUG": "Hibakeresés",
